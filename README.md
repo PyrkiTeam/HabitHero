@@ -1,1 +1,3 @@
-#HABIT HERO HABIT TRACKER APP
+# HABIT HERO HABIT TRACKER APP
+pl.: Narzędzie służące do monitorowania i śledzenia codziennych nawyków oraz celów
+eng.: "Introducing Habit Hero – your personal ally in building positive habits and breaking bad ones! With Habit Hero, you can set customizable goals, track your progress effortlessly, and receive motivating reminders to stay on track. Whether you're aiming to exercise more, eat healthier, or improve your productivity, Habit Hero equips you with the tools and support you need to transform your habits and lead a happier, more fulfilling life. Download Habit Hero today and start your journey towards becoming the best version of yourself!"
